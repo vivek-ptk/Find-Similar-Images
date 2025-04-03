@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+faiss-cpu
+opencv-python
+tensorflow
+tensorflow-io
+pillow
+pickle-mixin
